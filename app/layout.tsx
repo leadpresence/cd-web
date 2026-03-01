@@ -38,6 +38,11 @@ export const metadata: Metadata = {
     description:
       "Simple medication tracking for patients. Real-time peace of mind for caregivers.",
   },
+  icons: {
+    icon: "/icon.svg",
+    shortcut: "/icon.svg",
+    apple: "/icon.svg",
+  },
   robots: { index: true, follow: true },
 };
 
